@@ -1,0 +1,176 @@
+body{
+  margin: 0%;
+  font-family: Verdana, sans-serif;
+
+}
+body{
+            
+           color: white;
+           width: auto;
+           height: auto;
+          margin-bottom: 5%;
+           font-family: Arial ,sans-serif;
+  
+  
+ 
+text-align: center;
+  align-items: center;
+  justify-content: center;
+
+        }
+        h1{
+            text-align: center;
+        }
+        h4{
+            font-size: 27px;
+        }
+        #tema{
+            padding-left: 10%;
+        }
+        #tema form{
+            padding-left: 1%;
+
+        }
+        #tema input{
+            margin-left: 10%;
+
+        }
+        #imagen{
+            padding-left: 10%;
+
+        }
+        #imagen form{
+            padding-left: 1%;
+
+        }
+        #imagen input{
+            margin-left: 10%;
+
+        }
+         img{
+            width: 190px;
+            border-style: solid;
+            border-color: #DB4545;
+        }
+        #img3{
+            height: 160px;
+        }
+        #sValentin{
+            display: none;
+
+        }
+        #Cumpleaños{
+            display: none;
+        }
+        #Motivacion{
+            display: none;
+        }
+        #contenido{
+            padding-left: 10%;
+        }
+        #contenido{
+            width: 90%;
+        }
+        input[type="text"]{
+
+            width: 30%;
+            height: 50px;
+            border: none;
+  border-bottom: 2px solid red; 
+  background-color: rgba(0,0,0,0.1);
+  padding-left: 1%;
+  color: white;
+        }
+        ::placeholder { 
+  color: white;
+  opacity: 1;
+}
+
+:-ms-input-placeholder { 
+  color: white;
+}
+
+::-ms-input-placeholder { 
+  color: white;
+}
+         textarea{
+          padding-top: 5%;
+             width: 95%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+            
+        }
+        #colores{
+            padding-left: 10%;
+
+        }
+        #fon{
+            height: 100px;
+            width: 100px;
+        }
+        #colores input{
+            margin-left: 10%;
+
+        }
+        .llenado{
+            display: ;
+        }
+        #final{
+            display: none;
+            height: auto;
+            width: 60%;
+            position: absolute;
+        }
+        #txtMensaje{
+            width: 90%;
+          
+            text-align: justify;
+            margin: 5%;
+        }
+        .final p{
+            
+            margin-left: 5%;
+
+        }
+        
+        #tarje{
+            margin: 5%;
+            color: white;
+            background-color: white;
+            text-align: center;
+            border-style: solid;
+        }
+        #fecha{
+            float: left;
+            margin-left: 5%;
+        }
+        #txtAutor{
+            float: right;
+            margin-right: 2%;
+        }
+        #imagen{
+          width: 70%;
+          height: auto;
+          margin-left: -10%;
+          border: none;
+        }
+       #parraMensaje{
+        width: 80%;
+        margin-left: 10%;
+       }
+       #txtTitulo{
+        font-size: 55px;
+       }
+       #txtSubtitulo{
+        font-size: 20px;
+       }
+       #audio{
+        width: 200px;
+       }
+
+
